@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "82169775506",
+    "firebase_url": "https://instagramdemo-1ac57.firebaseio.com",
+    "project_id": "instagramdemo-1ac57",
+    "storage_bucket": "instagramdemo-1ac57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82169775506:android:b4e9c1e536217f47",
+        "android_client_info": {
+          "package_name": "com.example.zoe.instagramlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82169775506-tjc7j1qk0m4ritr8rc31n7qpsiske4bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQepJLhgSSHfocY2Ks0qnojBJDAF8YJ2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82169775506:android:ed1ac7f999144e85",
+        "android_client_info": {
+          "package_name": "com.example.zoe.instragram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82169775506-tjc7j1qk0m4ritr8rc31n7qpsiske4bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQepJLhgSSHfocY2Ks0qnojBJDAF8YJ2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82169775506:android:0eda805bc264524f",
+        "android_client_info": {
+          "package_name": "com.example.zoe.listviewdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82169775506-tjc7j1qk0m4ritr8rc31n7qpsiske4bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQepJLhgSSHfocY2Ks0qnojBJDAF8YJ2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
